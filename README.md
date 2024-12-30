@@ -74,6 +74,7 @@ This repository follows the initial template provided for the course. The instru
 - datasets==3.0.1
 - torch==2.0.1
 - torchtext==0.15.2
+- tensorboard==2.17.0
 - transformers==4.24.0
 - evaluate==0.4.0
 - rouge-score==0.1.2
